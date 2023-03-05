@@ -1,6 +1,6 @@
 # Play-Store-App-Review-Analysis-EDA
  
-![image.png](https://i.pinimg.com/originals/60/a8/b5/60a8b504a19449659ac8e41d3fb807a4.gif)
+![image.png](https://cdn.dribbble.com/users/5239540/screenshots/11303632/gplay-logo-animation-new.gif)
 
 ## Introduction 📖
 Google Play Store or formerly Android Market, is a digital distribution service developed and operated by Google. It is an official apps store that provides variety content such as apps, books, magazines, music, movies and television programs. It serves an as platform to allow users with 'Google certified' Android operating system devices to donwload applications developed and published on the platform either with a charge or free of cost. With the rapidly growth of Android devices and apps, it would be interesting to perform data analysis on the data to obtain valuable insights.
