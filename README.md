@@ -48,11 +48,11 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 	3. Matplotlib 
 	4. Seaborn
 
-which I have learnt from the course.
+**which I have learnt from the course.**
 
-## CONCLUSION ✌
+## Conclusion ✌
 
-### We have analyzed a variety of parameters as part of this study to analyse play store applications that would help AlmaBetter launch their apps successfully. In order to give them the best results from our study, we concentrated more on the problem statements and data cleaning in the initial phase.
+**We have analyzed a variety of parameters as part of this study to analyse play store applications that would help AlmaBetter launch their apps successfully. In order to give them the best results from our study, we concentrated more on the problem statements and data cleaning in the initial phase.**
 
 ### based on analysis, there is minimal information available regarding the play store datasets
 
