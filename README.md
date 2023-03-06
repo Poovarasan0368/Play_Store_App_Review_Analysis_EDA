@@ -62,61 +62,6 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 * The genres of tools, entertainment, and education make up the great majority of apps in the Google Play Store.
 * The majority of apps in the Google Play Store run on Android 4.1 or later.
 
-### I would advise anyone creating an app for the Playstore to follow these standards.
-
-**Category**
-* Communication
-* Social 
-* Video Players
-* Entertiment  
-* Productvity
-
-**Content Rating**
-* Teen
-* Everyone 10+
-
-**Geners**
-* Communication
-* Social
-* Video Players & Editors
-* Arcade
-* Adventure; Action & Adventure
-
-**Size**
-* Ranging between 70 and 76 (MB)
-
-**Android versions**
-* 4.1-7.1.1
-
- ### I would suggest anyone developing a paid app for the Playstore to stick to these requirements.
-
-**Category**
-* Game          
-* Education      
-* Family         
-* Photography    
-* Weather
-
-**Content Rating** 
-* Mature 17+
-* Everyone 10+ 
-
-**Geners**
-* Arcade;Action & Adventure    
-* Card;Action & Adventure      
-* Action                       
-* Puzzle;Brain Games           
-* Sports;Action & Adventure 
-
-**Size**
-* Ranging between 0 and 29 (MB)
-
-**Android versions**
-* 4.1 and up
-
-**Price**
-* 1 to 13 Dollers 
-
 ## Other Findngs 📰
 * App with the smallest size earned the highest ratings
 * The highly reviewed applications has received numerous downloads from users.
