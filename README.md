@@ -1,4 +1,4 @@
-# Play-Store-App-Review-Analysis-EDA
+# Play Store App Review Analysis EDA
  
 ![image.png](https://cdn.dribbble.com/users/2991/screenshots/1676747/google_play.gif)
 
