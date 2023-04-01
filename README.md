@@ -26,7 +26,7 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 
 ### The contents of User Reviews are:
 * **App:** Name of the app on which the user review was provided. Matches the App column of the play_store_data.csv file
-* **Translated Review:** The pre-processed user review text.
+* **Translated Review:** The pre-processed user review text. 
 * **Sentiment:** Sentiment category of the user review - Positive, Negative or Neutral.
 * **Sentiment Polarity:** Sentiment score of the user review. It lies between [-1,1]. A higher score denotes a more positive sentiment.
 
